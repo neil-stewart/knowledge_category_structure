@@ -1,6 +1,4 @@
-# Code for Stewart and Matthews (2009)
-
-This repo contains source code for the relative judgment model. 
+This directory contains source code for the relative judgment model. 
 
 Source code is written in C using functions from the GNU Scientific Library
 (http://www.gnu.org/software/gsl/).
